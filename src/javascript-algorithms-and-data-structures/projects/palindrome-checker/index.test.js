@@ -1,7 +1,7 @@
 /* eslint-disable no-useless-escape */
 import palindrome from '.'
 
-test('palidrome', () => {
+test('palindrome', () => {
   expect(palindrome('eye')).toBeTruthy()
   expect(palindrome('_eye')).toBeTruthy()
   expect(palindrome('race car')).toBeTruthy()
