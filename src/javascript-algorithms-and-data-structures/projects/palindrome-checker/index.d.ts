@@ -1,1 +1,1 @@
-export default function (text: string): boolean
+export default function palindrome(text: string): boolean
