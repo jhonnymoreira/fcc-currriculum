@@ -8,11 +8,11 @@ This is how I'm tackling the problems presented in the [freeCodeCamp](freecodeca
 
 - **Javascript Algorithms And Data Structures Certification**
     - Projects
-        -  [x] [Palindrome Checker](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker)
-        - [x] [Roman Numeral Converter](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter)
-        - [x] [Caesars Cipher](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher)
-        - [ ] [Telephone Number Validator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
-        - [ ] [Cash Register](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+        - [x] Palindrome Checker [[Solution](https://git.io/vhKrh) | [Source](https://bit.ly/2JPsnQo)]
+        - [x] Roman Numeral Converter [[Solution](https://git.io/vhKoJ) | [Source](https://bit.ly/2MmOuw1)]
+        - [x] Caesars Cipher [[Solution](https://git.io/vhKrF) | [Source](https://bit.ly/2HLcF3U)]
+        - [ ] Telephone Number Validator [[Source](https://bit.ly/2LMhuMv)]
+        - [ ] Cash Register [[Source](https://bit.ly/2HJCSjl)]
 
 ---
 
