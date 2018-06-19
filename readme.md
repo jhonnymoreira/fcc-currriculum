@@ -11,7 +11,7 @@ This is how I'm tackling the problems presented in the [freeCodeCamp](freecodeca
         - [x] Palindrome Checker [[Solution](https://git.io/vhKrh) | [Source](https://bit.ly/2JPsnQo)]
         - [x] Roman Numeral Converter [[Solution](https://git.io/vhKoJ) | [Source](https://bit.ly/2MmOuw1)]
         - [x] Caesars Cipher [[Solution](https://git.io/vhKrF) | [Source](https://bit.ly/2HLcF3U)]
-        - [ ] Telephone Number Validator [[Source](https://bit.ly/2LMhuMv)]
+        - [x] Telephone Number Validator [[Solution](https://git.io/fmJj8) | [Source](https://bit.ly/2LMhuMv)]
         - [ ] Cash Register [[Source](https://bit.ly/2HJCSjl)]
 
 ---
